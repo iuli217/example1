@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: test1db
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: iulian.dumitru
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/test1db
+Created-By: Maven Integration for Eclipse
+
